@@ -1,7 +1,7 @@
 trigger:
 - main
 pool:
-name: 'mypool' # Your self-hosted agent pool name
+name: 'TILLU' # Your self-hosted agent pool name
 steps:
 # Step 1: Checkout the Code from GitHub
 - checkout: self
